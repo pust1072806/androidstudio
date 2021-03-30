@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="撥打客服總機"
+        android:id="@+id/call"/>
+    <item
+        android:title="開啟入口網站"
+        android:id="@+id/open">
+    </item>
+</menu>

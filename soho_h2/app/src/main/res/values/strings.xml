@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">soho_h2</string>
+    <string name="orderlist">餐點</string>
+    <string name="outlist">正常下班打卡</string>
+    <string name="outlist2">拍照下班打卡</string>
+    <string name="re">重新拍照</string>
+    <string name="ok">確定打卡</string>
+    <string-array name="orders">
+        <item>白飯</item>
+        <item>泡麵</item>
+        <item>烏龍麵</item>
+        <item>意麵</item>
+        <item>拉麵</item>
+        <item>青菜</item>
+        <item>味增湯</item>
+        <item>豆腐湯</item>
+        <item>貢丸湯</item>
+        <item>水餃</item>
+        <item>鍋貼</item>
+        <item>小籠包</item>
+
+    </string-array>
+</resources>
