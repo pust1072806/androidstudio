@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\WS4Java\ThreadLab\threadlab05\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="302f4fcf045b9866299b8540fb0f8218c06fb701">
+        <dex dex="D:\android\WS4Java\ThreadLab\threadlab05\build\intermediates\pre-dexed\debug\instant-run-bootstrap_06584d30b099e908dabe3e95ddd5a3df1e23ad05.jar" />
+    </item>
+    <item
+        jar="D:\android\WS4Java\ThreadLab\threadlab05\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="567daaddf2ba8a06a1c2572c9d597481341660c7">
+        <dex dex="D:\android\WS4Java\ThreadLab\threadlab05\build\intermediates\pre-dexed\debug\instant-run_f6cd175a32c098cf8db1a3aee32d15f5e2a0c90c.jar" />
+    </item>
+    <item
+        jar="D:\android\sdk4AS\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\android\WS4Java\ThreadLab\threadlab05\build\intermediates\pre-dexed\debug\support-v4-19.1.0_91598d7c83f219abc79b001df6ab41da345657de.jar" />
+    </item>
+
+</items>

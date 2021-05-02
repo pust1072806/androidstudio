@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JsonParserLab.iml" filepath="$PROJECT_DIR$/JsonParserLab.iml" group="JsonParserLab" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ListView/ListView.iml" filepath="$PROJECT_DIR$/.idea/modules/ListView/ListView.iml" group="JsonParserLab/ListView" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoogleMaps/googlemaps.iml" filepath="$PROJECT_DIR$/.idea/modules/GoogleMaps/googlemaps.iml" group="JsonParserLab/googlemaps" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JsonParser/jsonparser.iml" filepath="$PROJECT_DIR$/.idea/modules/JsonParser/jsonparser.iml" group="JsonParserLab/jsonparser" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JsonParser</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">景點導覽-GoogleMaps</string>
+    <string name="start">開始</string>
+    <string name="stop">停止</string>
+
+</resources>
